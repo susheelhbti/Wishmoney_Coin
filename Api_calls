@@ -1,0 +1,11 @@
+
+1 URL http://localhost:8080/ImobicoinsTrade/Balance?WalletID=de66d96a06a677af43ef242bdeb4d3b0f245a6b89bab07b6db7909e078c1d464
+
+It take one parameter  WalletID and return the balance in that wallet.
+
+
+2 URL http://localhost:8080/ImobicoinsTrade/Wallet?email=[email]&password=[password]
+
+It take two parameters email id and password and return full details of the wallet
+
+
